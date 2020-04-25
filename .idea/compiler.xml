@@ -13,14 +13,15 @@
         <module name="myShop-cache" />
         <module name="myShop-pay" />
         <module name="myShop-utils" />
-        <module name="product" />
         <module name="myShop-order" />
         <module name="myShop-system" />
         <module name="myShop-exception" />
+        <module name="myShop-product" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="myShop-Exception" target="1.5" />
+      <module name="product" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

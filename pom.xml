@@ -20,6 +20,7 @@
         <module>myShop-vip</module>
         <module>myshop_search</module>
         <module>myShop-mq</module>
+        <module>myShop-product</module>
     </modules>
 
 
