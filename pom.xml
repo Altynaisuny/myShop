@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.messiyang</groupId>
+    <artifactId>myShop</artifactId>
+    <packaging>pom</packaging>
+    <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>myShop-cache</module>
+        <module>myShop-exception</module>
+        <module>myShop-order</module>
+        <module>myShop-utils</module>
+        <module>myShop-pay</module>
+        <module>product</module>
+        <module>myShop-user</module>
+        <module>myShop-system</module>
+        <module>myShop-vip</module>
+        <module>myshop_search</module>
+    </modules>
+
+
+</project>

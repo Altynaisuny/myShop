@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myShop-user" />
+        <module name="myshop_search" />
+        <module name="myShop-vip" />
+        <module name="myShop-cache" />
+        <module name="myShop-pay" />
+        <module name="myShop-utils" />
+        <module name="product" />
+        <module name="myShop-order" />
+        <module name="myShop-system" />
+        <module name="myShop-exception" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myShop-Exception" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
