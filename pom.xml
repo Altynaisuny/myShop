@@ -19,6 +19,7 @@
         <module>myShop-system</module>
         <module>myShop-vip</module>
         <module>myshop_search</module>
+        <module>myShop-mq</module>
     </modules>
 
 
